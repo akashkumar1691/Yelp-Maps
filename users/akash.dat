@@ -1,0 +1,30 @@
+make_user(
+    'Akash',      # name
+    [                   # reviews
+        # Northside restaurants
+        make_review('Jasmine Thai', 4.0),
+        make_review('Gomnaru Restaurant', 2.5),
+        make_review('Top Dog 2', 5.0),
+        make_review('T C Garden Restaurant', 2.0),
+        make_review('The Pho Bar', 3.5),
+        make_review('Aki Japanese Restaurant', 3.0),
+        make_review('Zach\'s Snacks', 3.5),
+        make_review('Nefeli Caffe', 0.5),
+        # Westside restaurants
+        make_review('La Cascada Taqueria', 4.0),
+       make_review('Punjabi By Nature', 5.0),
+        make_review('Suya African Caribbean Grill', 4.5),
+        make_review('Cafe Rio', 1.5),
+        # Southside restaurants
+        make_review('Cafe 3', 0.1),
+        make_review('Pancho\'s', 4.0),
+        make_review('Peking Express', 4.5),
+        make_review('Sun Hong Kong Restaurant', 4.5),
+        make_review('Henry\'s', 5.0),
+        make_review('Durant Square - Asian Ghetto', 4.5),
+        make_review('Cheese \'N\' Stuff', 4.5),
+        make_review('Babette', 5.0),
+        make_review('Bear\'s Ramen House', 4.5),
+        make_review('Planet Kebob & Cafe', 4.5),
+ make_review('Chipotle Mexican Grill',5.0), make_review('Lotus House',5.0), make_review('Racha Cafe', 5.0), make_review("Steve's Bar-B-Que", 5.0) ]
+)
