@@ -18,6 +18,8 @@ Southside restaurants, and so the southern regions are colored yellow.</p>
   python3 reccomend.py
   ```  
   ### Flags  
+  
+  The following flags can be added:
   ```
   python3 recommend.py -u likes_expensive -k 2 -p -q Sandwiches
  ```
